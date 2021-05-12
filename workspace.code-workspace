@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\DMSproject"
+		},
+		{
+			"name": "youtube-tutorial-series",
+			"path": "..\\..\\Javed_k8s\\youtube-tutorial-series"
+		}
+	],
+	"settings": {}
+}
